@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "marioAI",
+                "projectName": "marioAI",
+                "workingDirectory": "c:\\Users\\shigh\\workspace\\proB\\marioAI",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "marioAI",
+                "projectName": "marioAI",
+                "workingDirectory": "c:\\Users\\shigh\\workspace\\proB\\marioAI",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
